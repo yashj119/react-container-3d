@@ -65,8 +65,8 @@
         ]
     },
     "dependencies": {
-        "react-cubeview": "FTCSolar/react-cubeview#pkg-bundle",
-        "three": "^0.88.0",
-        "three-react-obj-loader": "^1.0.4"
+        "react-cubeview": "yashj119/react-cubeview",
+        "three": "^0.116.1",
+        "three-react-obj-loader": "yashj119/three-react-object-loader"
     }
 }
